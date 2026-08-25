@@ -1,3 +1,14 @@
 .DS_Store
 *.dmg
 Antigravity IDE*
+
+# Flutter / Dart ignores
+**/.dart_tool/
+**/build/
+**/.pub-cache/
+**/.pub/
+**/.flutter-plugins-dependencies
+**/.flutter-plugins
+**/ios/Flutter/.last_build_id
+**/*.iml
+.idea/
