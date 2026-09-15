@@ -10,5 +10,7 @@ Antigravity IDE*
 **/.flutter-plugins-dependencies
 **/.flutter-plugins
 **/ios/Flutter/.last_build_id
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
 **/*.iml
 .idea/

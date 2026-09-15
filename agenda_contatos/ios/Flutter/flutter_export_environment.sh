@@ -1,7 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\ProgramData\flutter"
-export "FLUTTER_APPLICATION_PATH=H:\AmbMov-main\agenda_contatos"
+export "FLUTTER_ROOT=C:\Users\Tadeu\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Tadeu\Documents\Cotemig\2026\AmbMov-main\agenda_contatos"
+export "FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=C:\Users\Tadeu\Documents\Cotemig\2026\AmbMov-main\agenda_contatos\ios\Flutter\ephemeral\Packages\.packages\FlutterFramework"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
