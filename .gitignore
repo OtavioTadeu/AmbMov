@@ -3,6 +3,7 @@
 Antigravity IDE*
 *.pdf
 *.mov
+*.zip
 
 # Flutter / Dart ignores
 **/.dart_tool/
